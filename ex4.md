@@ -6,3 +6,5 @@ ex4 update
 ex4 changes after git rebase development and git push --force
 diverge agin
 Making changes on ex 4 that are based on commit 57146d8 (dev branch diverges again)
+
+feature/ex4 gets backed up on origin/feature/ex4 step1
